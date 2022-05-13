@@ -1,1 +1,1 @@
-Hi Readme2
+This was my first attempt at implementing a program to detect topologial features in data
